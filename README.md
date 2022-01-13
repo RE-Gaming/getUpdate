@@ -8,7 +8,7 @@ Optimized Systems <br />
 - Gameboy: Optimized at the emulator level, no games individually optimized
 - Gameboy Color: Optimized at the emulator level, no games individually optimized
 - Gameboy Advance: Optimized at the emulator level, no games individually optimized
-  - Some games exhibit cracking audio, may need BIOS to fix it
+  - **Some games exhibit cracking audio, may need BIOS to fix it**
 - Game Gear: Optimized at the emulator level, no games individually optimized 
   - LCD Ghosting may need to be enabled on a per game basis
 - NES: Optimized at the emulator level, no games individually optimized
@@ -17,5 +17,7 @@ Optimized Systems <br />
 - SEGA Master System: Optimized at the emulator level, no games individually optimized
 - SEGA Mega Drive/Genesis: Optimized at the emulator level, no games individually optimized
 - Atari 2600: Optimized at the emulator level, no games individually optimized
-- Atari 5200: Having issues launching into games, need to add cartridge header? TBD on getting this to work
+- **Atari 5200: Having issues launching into games, need to add cartridge header? TBD on getting this to work**
 - Atari 7800: Optimized at the emulator level, no games individually optimized 
+- Playstation 1: Optimzed at the emulator level, will need to optmize per game
+  - **need to include BIOS for best emulation**

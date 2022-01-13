@@ -1,0 +1,19 @@
+#This is the full list of games that have individual optimizations seperate from the system level optmizations
+
+# Playstation 1 - 0 Games Total
+
+
+
+# Nintendo 64 - 0 Games Total
+
+
+
+# Playstation Portable - 0 Games Total
+
+
+
+# Sega Dreamcast - 0 Games Total
+
+
+
+# Nintendo DS - 0 Games Total
