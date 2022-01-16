@@ -14,6 +14,22 @@
       "core_name": "Mupen64Plus-Next",
       "crc32": "",
       "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Donkey Kong 64 (USA).z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Mario Kart 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
     }
   ]
 }

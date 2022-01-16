@@ -1,9 +1,21 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./Mario Kart 64.z64</path>
+		<name>Mario Kart 64</name>
+		<playcount>4</playcount>
+		<lastplayed>20220109T171206</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong 64 (USA).z64</path>
+		<name>Donkey Kong 64 (USA)</name>
+		<playcount>3</playcount>
+		<lastplayed>20220109T231233</lastplayed>
+	</game>
+	<game>
 		<path>./Super Mario 64.z64</path>
 		<name>Super Mario 64</name>
-		<playcount>3</playcount>
-		<lastplayed>20220106T210419</lastplayed>
+		<playcount>7</playcount>
+		<lastplayed>20220109T231752</lastplayed>
 	</game>
 </gameList>

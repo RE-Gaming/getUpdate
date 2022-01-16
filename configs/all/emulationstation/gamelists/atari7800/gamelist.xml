@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Choplifter.A78</path>
+		<name>Choplifter</name>
+		<playcount>1</playcount>
+		<lastplayed>20220112T201739</lastplayed>
+	</game>
+	<game>
+		<path>./Galaga.A78</path>
+		<name>Galaga</name>
+		<playcount>1</playcount>
+		<lastplayed>20220112T201625</lastplayed>
+	</game>
+	<game>
+		<path>./Hat Trick.A78</path>
+		<name>Hat Trick</name>
+		<playcount>2</playcount>
+		<lastplayed>20220112T201907</lastplayed>
+	</game>
+	<game>
+		<path>./Ikari Warriors.A78</path>
+		<name>Ikari Warriors</name>
+		<playcount>1</playcount>
+		<lastplayed>20220112T202002</lastplayed>
+	</game>
+</gameList>

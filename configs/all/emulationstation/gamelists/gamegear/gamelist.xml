@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Defenders of Oasis.gg</path>
+		<name>Defenders of Oasis</name>
+		<playcount>1</playcount>
+		<lastplayed>20220111T215314</lastplayed>
+	</game>
+	<game>
+		<path>./Prince of Persia.gg</path>
+		<name>Prince of Persia</name>
+		<playcount>2</playcount>
+		<lastplayed>20220111T215243</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog.gg</path>
+		<name>Sonic the Hedgehog</name>
+		<playcount>6</playcount>
+		<lastplayed>20220111T221349</lastplayed>
+	</game>
+</gameList>
