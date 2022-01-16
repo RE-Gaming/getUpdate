@@ -5,19 +5,43 @@ Website: https://www.re-gaming.com <br />
 Kickstarter: TBD <br />
 <br />
 Optimized Systems <br />
-- Gameboy: Optimized at the emulator level, no games individually optimized
-- Gameboy Color: Optimized at the emulator level, no games individually optimized
-- Gameboy Advance: Optimized at the emulator level, no games individually optimized
-  - **Some games exhibit cracking audio, may need BIOS to fix it**
-- Game Gear: Optimized at the emulator level, no games individually optimized 
-  - LCD Ghosting may need to be enabled on a per game basis
-- NES: Optimized at the emulator level, no games individually optimized
-- SNES: Optimized at the emulator level, no games individually optimized
-  - Hi-Rez blending will be needed for some games
-- SEGA Master System: Optimized at the emulator level, no games individually optimized
-- SEGA Mega Drive/Genesis: Optimized at the emulator level, no games individually optimized
-- Atari 2600: Optimized at the emulator level, no games individually optimized
-- **Atari 5200: Having issues launching into games, need to add cartridge header? TBD on getting this to work**
-- Atari 7800: Optimized at the emulator level, no games individually optimized 
-- Playstation 1: Optimzed at the emulator level, will need to optmize per game
-  - **need to include BIOS for best emulation**
+- **SEGA**
+  - Game Gear: Optimized at the emulator level, no games individually optimized
+    - LCD Ghosting may need to be enabled on a per game basis
+  - Master System: Optimized at the emulator level, no games individually optimized
+  - Mega Drive/Genesis: Optimized at the emulator level, no games individually optimized
+  - Dreamcast: TBD
+  - Sega 32x: TBD
+  - Sega CD: TBD
+  - SG-1000: TBD
+
+
+- **NINTENDO CONSOLES**
+  - NES: Optimized at the emulator level, no games individually optimized
+  - SNES: Optimized at the emulator level, no games individually optimized
+    - Hi-Rez blending will be needed for some games
+  - Nintendo 64: TBD
+  - Famicom Disk System: TBD
+
+- **NINTENDO HANDHELDS**
+  - Gameboy: Optimized at the emulator level, no games individually optimized
+  - Gameboy Color: Optimized at the emulator level, no games individually optimized
+  - Gameboy Advance: Optimized at the emulator level, no games individually optimized
+    - **Some games exhibit cracking audio, may need BIOS to fix it**
+  - Nintendo DS: TBD
+
+- **SONY**
+  - Playstation 1: Optimzed at the emulator level, will need to optmize per game
+    - **need to include BIOS for best emulation**
+  - Playstation Portable: TBD
+
+- **ATARI**
+  - Atari 2600: Optimized at the emulator level, no games individually optimized
+  - **Atari 5200: Having issues launching into games, need to add cartridge header? TBD on getting this to work**
+  - Atari 7800: Optimized at the emulator level, no games individually optimized
+  - Atari Jaguar: TBD
+  - Atari Lynx: TBD
+
+- **OTHER**
+  - Neo Geo: TBD
+  - Panasonic 3DO: TBD
