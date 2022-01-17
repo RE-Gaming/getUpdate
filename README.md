@@ -20,7 +20,9 @@ Optimized Systems <br />
   - NES: Optimized at the emulator level, no games individually optimized
   - SNES: Optimized at the emulator level, no games individually optimized
     - Hi-Rez blending will be needed for some games
-  - Nintendo 64: TBD
+  - Nintendo 64: 249/373 games optimized via emulator level settings
+    - 2 games directly optimized, 122 games still to optimize
+    - 0 games that can't be emulated
   - Famicom Disk System: TBD
 
 - **NINTENDO HANDHELDS**
@@ -32,7 +34,7 @@ Optimized Systems <br />
 
 - **SONY**
   - Playstation 1: Optimzed at the emulator level, will need to optmize per game
-    - **need to include BIOS for best emulation**
+    - **Need to include BIOS for best emulation**
   - Playstation Portable: TBD
 
 - **ATARI**
