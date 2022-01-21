@@ -1,263 +1,63 @@
-Jan 12 20:40:20 lvl2: 	EmulationStation - v2.10.1rp, built Dec 26 2021 - 16:25:37
-Jan 12 20:40:20 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamenames.xml"...
-Jan 12 20:40:20 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamebioses.xml"...
-Jan 12 20:40:20 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamedevices.xml"...
-Jan 12 20:40:20 lvl2: 	Creating window...
-Jan 12 20:40:21 lvl2: 	Created window successfully.
-Jan 12 20:40:21 lvl2: 	GL vendor:   Broadcom
-Jan 12 20:40:21 lvl2: 	GL renderer: V3D 4.2
-Jan 12 20:40:21 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 20:40:21 lvl2: 	Checking available OpenGL extensions...
-Jan 12 20:40:21 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 20:40:22 lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
-Jan 12 20:40:22 lvl1: 	System "amstradcpc" has no games! Ignoring it.
-Jan 12 20:40:22 lvl1: 	System "arcade" has no games! Ignoring it.
-Jan 12 20:40:22 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"...
-Jan 12 20:40:22 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari5200/gamelist.xml"...
-Jan 12 20:40:22 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari7800/gamelist.xml"...
-Jan 12 20:40:22 lvl1: 	System "atari800" has no games! Ignoring it.
-Jan 12 20:40:22 lvl1: 	System "atarilynx" has no games! Ignoring it.
-Jan 12 20:40:22 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/channelf" is not a directory!
-Jan 12 20:40:22 lvl1: 	System "channelf" has no games! Ignoring it.
-Jan 12 20:40:22 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/coleco" is not a directory!
-Jan 12 20:40:22 lvl1: 	System "coleco" has no games! Ignoring it.
-Jan 12 20:40:23 lvl1: 	System "fba" has no games! Ignoring it.
-Jan 12 20:40:23 lvl1: 	System "fds" has no games! Ignoring it.
-Jan 12 20:40:23 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gamegear/gamelist.xml"...
-Jan 12 20:40:23 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gba/gamelist.xml"...
-Jan 12 20:40:23 lvl1: 	System "mame-libretro" has no games! Ignoring it.
-Jan 12 20:40:23 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/megadrive/gamelist.xml"...
-Jan 12 20:40:23 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/msx" is not a directory!
-Jan 12 20:40:23 lvl1: 	System "msx" has no games! Ignoring it.
-Jan 12 20:40:23 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/n64/gamelist.xml"...
-Jan 12 20:40:23 lvl1: 	System "neogeo" has no games! Ignoring it.
-Jan 12 20:40:24 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/nes/gamelist.xml"...
-Jan 12 20:40:24 lvl1: 	System "ngp" has no games! Ignoring it.
-Jan 12 20:40:24 lvl1: 	System "ngpc" has no games! Ignoring it.
-Jan 12 20:40:24 lvl1: 	System "pcengine" has no games! Ignoring it.
-Jan 12 20:40:24 lvl1: 	System "psp" has no games! Ignoring it.
-Jan 12 20:40:24 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/retropie/gamelist.xml"...
-Jan 12 20:40:24 lvl1: 	File "/home/pi/RetroPie/retropiemenu/getUpdate.sh" does not exist! Ignoring.
-Jan 12 20:40:24 lvl1: 	System "sega32x" has no games! Ignoring it.
-Jan 12 20:40:24 lvl1: 	System "segacd" has no games! Ignoring it.
-Jan 12 20:40:24 lvl1: 	System "sg-1000" has no games! Ignoring it.
-Jan 12 20:40:24 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/snes/gamelist.xml"...
-Jan 12 20:40:24 lvl1: 	System "vectrex" has no games! Ignoring it.
-Jan 12 20:40:24 lvl1: 	System "zxspectrum" has no games! Ignoring it.
-Jan 12 21:41:36 lvl2: 	 req sound [basic.launch]
-Jan 12 21:41:36 lvl2: 	   (missing)
-Jan 12 21:41:36 lvl2: 	Attempting to launch game...
-Jan 12 21:41:37 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 21:41:37 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ psx /home/pi/RetroPie/roms/psx/Spyro\ the\ Dragon\ \(USA\).cue
-Jan 12 21:51:06 lvl2: 	Creating window...
-Jan 12 21:51:06 lvl2: 	Created window successfully.
-Jan 12 21:51:06 lvl2: 	GL vendor:   Broadcom
-Jan 12 21:51:06 lvl2: 	GL renderer: V3D 4.2
-Jan 12 21:51:06 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 21:51:06 lvl2: 	Checking available OpenGL extensions...
-Jan 12 21:51:06 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 21:51:06 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 21:51:11 lvl2: 	 req sound [basic.launch]
-Jan 12 21:51:11 lvl2: 	   (missing)
-Jan 12 21:51:11 lvl2: 	Attempting to launch game...
-Jan 12 21:51:12 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ psx /home/pi/RetroPie/roms/psx/Crash\ Bandicoot\ \(USA\).cue
-Jan 12 21:55:18 lvl2: 	Creating window...
-Jan 12 21:55:18 lvl2: 	Created window successfully.
-Jan 12 21:55:18 lvl2: 	GL vendor:   Broadcom
-Jan 12 21:55:18 lvl2: 	GL renderer: V3D 4.2
-Jan 12 21:55:18 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 21:55:18 lvl2: 	Checking available OpenGL extensions...
-Jan 12 21:55:18 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 21:55:19 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 21:55:21 lvl2: 	 req sound [basic.launch]
-Jan 12 21:55:21 lvl2: 	   (missing)
-Jan 12 21:55:21 lvl2: 	Attempting to launch game...
-Jan 12 21:55:22 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ psx /home/pi/RetroPie/roms/psx/Gran\ Turismo\ \(USA\)\ \(Rev\ 1\).cue
-Jan 12 21:58:33 lvl2: 	Creating window...
-Jan 12 21:58:34 lvl2: 	Created window successfully.
-Jan 12 21:58:34 lvl2: 	GL vendor:   Broadcom
-Jan 12 21:58:34 lvl2: 	GL renderer: V3D 4.2
-Jan 12 21:58:34 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 21:58:34 lvl2: 	Checking available OpenGL extensions...
-Jan 12 21:58:34 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 21:58:34 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:24:15 lvl2: 	 req sound [basic.launch]
-Jan 12 22:24:15 lvl2: 	   (missing)
-Jan 12 22:24:16 lvl2: 	Attempting to launch game...
-Jan 12 22:24:17 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:39:13 lvl2: 	Creating window...
-Jan 12 22:39:14 lvl2: 	Created window successfully.
-Jan 12 22:39:14 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:39:14 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:39:14 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:39:14 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:39:14 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:39:14 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:39:17 lvl2: 	 req sound [basic.launch]
-Jan 12 22:39:17 lvl2: 	   (missing)
-Jan 12 22:39:17 lvl2: 	Attempting to launch game...
-Jan 12 22:39:18 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:40:34 lvl2: 	Creating window...
-Jan 12 22:40:34 lvl2: 	Created window successfully.
-Jan 12 22:40:34 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:40:34 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:40:34 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:40:34 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:40:34 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:40:35 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:40:37 lvl2: 	 req sound [basic.launch]
-Jan 12 22:40:37 lvl2: 	   (missing)
-Jan 12 22:40:38 lvl2: 	Attempting to launch game...
-Jan 12 22:40:38 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:41:27 lvl2: 	Creating window...
-Jan 12 22:41:27 lvl2: 	Created window successfully.
-Jan 12 22:41:27 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:41:27 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:41:27 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:41:27 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:41:27 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:41:27 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:41:30 lvl2: 	 req sound [basic.launch]
-Jan 12 22:41:30 lvl2: 	   (missing)
-Jan 12 22:41:31 lvl2: 	Attempting to launch game...
-Jan 12 22:41:31 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:42:20 lvl2: 	Creating window...
-Jan 12 22:42:20 lvl2: 	Created window successfully.
-Jan 12 22:42:20 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:42:20 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:42:20 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:42:20 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:42:20 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:42:21 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:42:23 lvl2: 	 req sound [basic.launch]
-Jan 12 22:42:23 lvl2: 	   (missing)
-Jan 12 22:42:24 lvl2: 	Attempting to launch game...
-Jan 12 22:42:24 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:42:59 lvl2: 	Creating window...
-Jan 12 22:42:59 lvl2: 	Created window successfully.
-Jan 12 22:42:59 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:42:59 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:42:59 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:42:59 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:42:59 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:42:59 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:43:02 lvl2: 	 req sound [basic.launch]
-Jan 12 22:43:02 lvl2: 	   (missing)
-Jan 12 22:43:03 lvl2: 	Attempting to launch game...
-Jan 12 22:43:03 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:44:01 lvl2: 	Creating window...
-Jan 12 22:44:01 lvl2: 	Created window successfully.
-Jan 12 22:44:01 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:44:01 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:44:01 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:44:01 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:44:01 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:44:01 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:44:05 lvl2: 	 req sound [basic.launch]
-Jan 12 22:44:05 lvl2: 	   (missing)
-Jan 12 22:44:05 lvl2: 	Attempting to launch game...
-Jan 12 22:44:06 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:44:53 lvl2: 	Creating window...
-Jan 12 22:44:54 lvl2: 	Created window successfully.
-Jan 12 22:44:54 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:44:54 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:44:54 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:44:54 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:44:54 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:44:54 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:44:58 lvl2: 	 req sound [basic.launch]
-Jan 12 22:44:58 lvl2: 	   (missing)
-Jan 12 22:44:59 lvl2: 	Attempting to launch game...
-Jan 12 22:44:59 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:45:36 lvl2: 	Creating window...
-Jan 12 22:45:37 lvl2: 	Created window successfully.
-Jan 12 22:45:37 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:45:37 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:45:37 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:45:37 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:45:37 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:45:37 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:45:41 lvl2: 	 req sound [basic.launch]
-Jan 12 22:45:41 lvl2: 	   (missing)
-Jan 12 22:45:42 lvl2: 	Attempting to launch game...
-Jan 12 22:45:43 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:46:39 lvl2: 	Creating window...
-Jan 12 22:46:39 lvl2: 	Created window successfully.
-Jan 12 22:46:39 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:46:39 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:46:39 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:46:39 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:46:39 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:46:39 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:46:53 lvl2: 	 req sound [basic.launch]
-Jan 12 22:46:53 lvl2: 	   (missing)
-Jan 12 22:46:53 lvl2: 	Attempting to launch game...
-Jan 12 22:46:54 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:47:39 lvl2: 	Creating window...
-Jan 12 22:47:40 lvl2: 	Created window successfully.
-Jan 12 22:47:40 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:47:40 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:47:40 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:47:40 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:47:40 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:47:40 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:47:42 lvl2: 	 req sound [basic.launch]
-Jan 12 22:47:42 lvl2: 	   (missing)
-Jan 12 22:47:43 lvl2: 	Attempting to launch game...
-Jan 12 22:47:44 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:48:05 lvl2: 	Creating window...
-Jan 12 22:48:06 lvl2: 	Created window successfully.
-Jan 12 22:48:06 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:48:06 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:48:06 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:48:06 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:48:06 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:48:06 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:48:09 lvl2: 	 req sound [basic.launch]
-Jan 12 22:48:09 lvl2: 	   (missing)
-Jan 12 22:48:10 lvl2: 	Attempting to launch game...
-Jan 12 22:48:10 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:49:36 lvl2: 	Creating window...
-Jan 12 22:49:36 lvl2: 	Created window successfully.
-Jan 12 22:49:36 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:49:36 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:49:36 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:49:36 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:49:36 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:49:36 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:49:39 lvl2: 	 req sound [basic.launch]
-Jan 12 22:49:39 lvl2: 	   (missing)
-Jan 12 22:49:39 lvl2: 	Attempting to launch game...
-Jan 12 22:49:40 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:50:45 lvl2: 	Creating window...
-Jan 12 22:50:45 lvl2: 	Created window successfully.
-Jan 12 22:50:45 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:50:45 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:50:45 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:50:45 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:50:45 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:50:46 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:50:48 lvl2: 	 req sound [basic.launch]
-Jan 12 22:50:48 lvl2: 	   (missing)
-Jan 12 22:50:49 lvl2: 	Attempting to launch game...
-Jan 12 22:50:50 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:53:15 lvl2: 	Creating window...
-Jan 12 22:53:16 lvl2: 	Created window successfully.
-Jan 12 22:53:16 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:53:16 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:53:16 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:53:16 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:53:16 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:53:16 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-Jan 12 22:53:18 lvl2: 	 req sound [basic.launch]
-Jan 12 22:53:18 lvl2: 	   (missing)
-Jan 12 22:53:19 lvl2: 	Attempting to launch game...
-Jan 12 22:53:20 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ n64 /home/pi/RetroPie/roms/n64/Super\ Mario\ 64.z64
-Jan 12 22:54:21 lvl2: 	Creating window...
-Jan 12 22:54:21 lvl2: 	Created window successfully.
-Jan 12 22:54:21 lvl2: 	GL vendor:   Broadcom
-Jan 12 22:54:21 lvl2: 	GL renderer: V3D 4.2
-Jan 12 22:54:21 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 12 22:54:21 lvl2: 	Checking available OpenGL extensions...
-Jan 12 22:54:21 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 12 22:54:21 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
+Jan 20 21:42:50 lvl2: 	EmulationStation - v2.10.1rp, built Dec 26 2021 - 16:25:37
+Jan 20 21:42:50 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamenames.xml"...
+Jan 20 21:42:50 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamebioses.xml"...
+Jan 20 21:42:50 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamedevices.xml"...
+Jan 20 21:42:50 lvl2: 	Creating window...
+Jan 20 21:42:51 lvl2: 	Created window successfully.
+Jan 20 21:42:51 lvl2: 	GL vendor:   Broadcom
+Jan 20 21:42:51 lvl2: 	GL renderer: V3D 4.2
+Jan 20 21:42:51 lvl2: 	GL version:  2.1 Mesa 19.3.2
+Jan 20 21:42:51 lvl2: 	Checking available OpenGL extensions...
+Jan 20 21:42:51 lvl2: 	 ARB_texture_non_power_of_two: ok
+Jan 20 21:42:51 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 0, device index: 0)
+Jan 20 21:42:51 lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
+Jan 20 21:42:51 lvl1: 	System "3do" has no games! Ignoring it.
+Jan 20 21:42:51 lvl1: 	System "amstradcpc" has no games! Ignoring it.
+Jan 20 21:42:51 lvl1: 	System "arcade" has no games! Ignoring it.
+Jan 20 21:42:51 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"...
+Jan 20 21:42:52 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari5200/gamelist.xml"...
+Jan 20 21:42:52 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari7800/gamelist.xml"...
+Jan 20 21:42:52 lvl1: 	System "atari800" has no games! Ignoring it.
+Jan 20 21:42:52 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atarijaguar/gamelist.xml"...
+Jan 20 21:42:52 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/channelf" is not a directory!
+Jan 20 21:42:52 lvl1: 	System "channelf" has no games! Ignoring it.
+Jan 20 21:42:52 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/coleco" is not a directory!
+Jan 20 21:42:52 lvl1: 	System "coleco" has no games! Ignoring it.
+Jan 20 21:42:52 lvl1: 	System "fba" has no games! Ignoring it.
+Jan 20 21:42:52 lvl1: 	System "fds" has no games! Ignoring it.
+Jan 20 21:42:52 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gamegear/gamelist.xml"...
+Jan 20 21:42:52 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gba/gamelist.xml"...
+Jan 20 21:42:53 lvl1: 	System "mame-libretro" has no games! Ignoring it.
+Jan 20 21:42:53 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/megadrive/gamelist.xml"...
+Jan 20 21:42:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/msx" is not a directory!
+Jan 20 21:42:53 lvl1: 	System "msx" has no games! Ignoring it.
+Jan 20 21:42:53 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/n64/gamelist.xml"...
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/roms/n64/Paper Mario (USA).z64" does not exist! Ignoring.
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/roms/n64/Quest 64 (USA).z64" does not exist! Ignoring.
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/roms/n64/South Park (USA).z64" does not exist! Ignoring.
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/roms/n64/Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).z64" does not exist! Ignoring.
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/roms/n64/Super Mario 64test.z64" does not exist! Ignoring.
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/roms/n64/Donkey Kong 64 (USA)test.z64" does not exist! Ignoring.
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/roms/n64/Donkey Kong 64 (USA).z64" does not exist! Ignoring.
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/roms/n64/Banjo-Kazooie (USA) (Rev 1).z64" does not exist! Ignoring.
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/roms/n64/The Legend of Zelda - Majora's Mask.z64" does not exist! Ignoring.
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/roms/n64/The Legend of Zelda - Ocarina of Time.z64" does not exist! Ignoring.
+Jan 20 21:42:53 lvl1: 	System "neogeo" has no games! Ignoring it.
+Jan 20 21:42:53 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/nes/gamelist.xml"...
+Jan 20 21:42:53 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/ngp/gamelist.xml"...
+Jan 20 21:42:53 lvl1: 	System "ngpc" has no games! Ignoring it.
+Jan 20 21:42:53 lvl1: 	System "pcengine" has no games! Ignoring it.
+Jan 20 21:42:53 lvl1: 	System "psp" has no games! Ignoring it.
+Jan 20 21:42:53 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/retropie/gamelist.xml"...
+Jan 20 21:42:53 lvl1: 	File "/home/pi/RetroPie/retropiemenu/getUpdate.sh" does not exist! Ignoring.
+Jan 20 21:42:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/sega32x/gamelist.xml"...
+Jan 20 21:42:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/segacd/gamelist.xml"...
+Jan 20 21:42:54 lvl1: 	File "/home/pi/RetroPie/roms/segacd/Sonic CD.iso" does not exist! Ignoring.
+Jan 20 21:42:54 lvl1: 	System "segacd" has no games! Ignoring it.
+Jan 20 21:42:54 lvl1: 	System "sg-1000" has no games! Ignoring it.
+Jan 20 21:42:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/snes/gamelist.xml"...
+Jan 20 21:42:54 lvl1: 	System "vectrex" has no games! Ignoring it.
+Jan 20 21:42:54 lvl1: 	System "zxspectrum" has no games! Ignoring it.
+Jan 20 21:42:56 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 0, device index: 0)
+Jan 20 21:48:51 lvl2: 	Restarting EmulationStation
+Jan 20 21:48:51 lvl2: 	EmulationStation cleanly shutting down.

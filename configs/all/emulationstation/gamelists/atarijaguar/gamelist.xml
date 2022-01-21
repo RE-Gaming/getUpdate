@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Alien vs. Predator.jag</path>
+		<name>Alien vs. Predator</name>
+		<playcount>1</playcount>
+		<lastplayed>20220116T230329</lastplayed>
+	</game>
+	<game>
+		<path>./Doom - Evil Unleashed.jag</path>
+		<name>Doom - Evil Unleashed</name>
+		<playcount>1</playcount>
+		<lastplayed>20220116T230208</lastplayed>
+	</game>
+</gameList>

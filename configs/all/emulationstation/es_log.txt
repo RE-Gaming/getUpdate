@@ -1,46 +1,131 @@
-Jan 14 17:23:54 lvl2: 	EmulationStation - v2.10.1rp, built Dec 26 2021 - 16:25:37
-Jan 14 17:23:54 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamenames.xml"...
-Jan 14 17:23:54 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamebioses.xml"...
-Jan 14 17:23:54 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamedevices.xml"...
-Jan 14 17:23:54 lvl2: 	Creating window...
-Jan 14 17:23:56 lvl2: 	Created window successfully.
-Jan 14 17:23:56 lvl2: 	GL vendor:   Broadcom
-Jan 14 17:23:56 lvl2: 	GL renderer: V3D 4.2
-Jan 14 17:23:56 lvl2: 	GL version:  2.1 Mesa 19.3.2
-Jan 14 17:23:56 lvl2: 	Checking available OpenGL extensions...
-Jan 14 17:23:56 lvl2: 	 ARB_texture_non_power_of_two: ok
-Jan 14 17:23:56 lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
-Jan 14 17:23:56 lvl1: 	System "amstradcpc" has no games! Ignoring it.
-Jan 14 17:23:57 lvl1: 	System "arcade" has no games! Ignoring it.
-Jan 14 17:23:57 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"...
-Jan 14 17:23:57 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari5200/gamelist.xml"...
-Jan 14 17:23:57 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari7800/gamelist.xml"...
-Jan 14 17:23:57 lvl1: 	System "atari800" has no games! Ignoring it.
-Jan 14 17:23:57 lvl1: 	System "atarilynx" has no games! Ignoring it.
-Jan 14 17:23:57 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/channelf" is not a directory!
-Jan 14 17:23:57 lvl1: 	System "channelf" has no games! Ignoring it.
-Jan 14 17:23:57 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/coleco" is not a directory!
-Jan 14 17:23:57 lvl1: 	System "coleco" has no games! Ignoring it.
-Jan 14 17:23:57 lvl1: 	System "fba" has no games! Ignoring it.
-Jan 14 17:23:57 lvl1: 	System "fds" has no games! Ignoring it.
-Jan 14 17:23:57 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gamegear/gamelist.xml"...
-Jan 14 17:23:58 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gba/gamelist.xml"...
-Jan 14 17:23:58 lvl1: 	System "mame-libretro" has no games! Ignoring it.
-Jan 14 17:23:58 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/megadrive/gamelist.xml"...
-Jan 14 17:23:58 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/msx" is not a directory!
-Jan 14 17:23:58 lvl1: 	System "msx" has no games! Ignoring it.
-Jan 14 17:23:58 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/n64/gamelist.xml"...
-Jan 14 17:23:58 lvl1: 	System "neogeo" has no games! Ignoring it.
-Jan 14 17:23:58 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/nes/gamelist.xml"...
-Jan 14 17:23:58 lvl1: 	System "ngp" has no games! Ignoring it.
-Jan 14 17:23:58 lvl1: 	System "ngpc" has no games! Ignoring it.
-Jan 14 17:23:59 lvl1: 	System "pcengine" has no games! Ignoring it.
-Jan 14 17:23:59 lvl1: 	System "psp" has no games! Ignoring it.
-Jan 14 17:23:59 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/retropie/gamelist.xml"...
-Jan 14 17:23:59 lvl1: 	File "/home/pi/RetroPie/retropiemenu/getUpdate.sh" does not exist! Ignoring.
-Jan 14 17:23:59 lvl1: 	System "sega32x" has no games! Ignoring it.
-Jan 14 17:23:59 lvl1: 	System "segacd" has no games! Ignoring it.
-Jan 14 17:23:59 lvl1: 	System "sg-1000" has no games! Ignoring it.
-Jan 14 17:23:59 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/snes/gamelist.xml"...
-Jan 14 17:23:59 lvl1: 	System "vectrex" has no games! Ignoring it.
-Jan 14 17:23:59 lvl1: 	System "zxspectrum" has no games! Ignoring it.
+Jan 20 21:48:51 lvl2: 	EmulationStation - v2.10.1rp, built Dec 26 2021 - 16:25:37
+Jan 20 21:48:51 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamenames.xml"...
+Jan 20 21:48:51 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamebioses.xml"...
+Jan 20 21:48:51 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamedevices.xml"...
+Jan 20 21:48:51 lvl2: 	Creating window...
+Jan 20 21:48:52 lvl2: 	Created window successfully.
+Jan 20 21:48:52 lvl2: 	GL vendor:   Broadcom
+Jan 20 21:48:52 lvl2: 	GL renderer: V3D 4.2
+Jan 20 21:48:52 lvl2: 	GL version:  2.1 Mesa 19.3.2
+Jan 20 21:48:52 lvl2: 	Checking available OpenGL extensions...
+Jan 20 21:48:52 lvl2: 	 ARB_texture_non_power_of_two: ok
+Jan 20 21:48:52 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 0, device index: 0)
+Jan 20 21:48:52 lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
+Jan 20 21:48:52 lvl1: 	System "amstradcpc" has no games! Ignoring it.
+Jan 20 21:48:52 lvl1: 	System "arcade" has no games! Ignoring it.
+Jan 20 21:48:52 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"...
+Jan 20 21:48:52 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari5200/gamelist.xml"...
+Jan 20 21:48:53 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari7800/gamelist.xml"...
+Jan 20 21:48:53 lvl1: 	System "atari800" has no games! Ignoring it.
+Jan 20 21:48:53 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atarijaguar/gamelist.xml"...
+Jan 20 21:48:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/channelf" is not a directory!
+Jan 20 21:48:53 lvl1: 	System "channelf" has no games! Ignoring it.
+Jan 20 21:48:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/coleco" is not a directory!
+Jan 20 21:48:53 lvl1: 	System "coleco" has no games! Ignoring it.
+Jan 20 21:48:53 lvl1: 	System "fba" has no games! Ignoring it.
+Jan 20 21:48:53 lvl1: 	System "fds" has no games! Ignoring it.
+Jan 20 21:48:53 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gamegear/gamelist.xml"...
+Jan 20 21:48:53 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/gba/gamelist.xml"...
+Jan 20 21:48:53 lvl1: 	System "mame-libretro" has no games! Ignoring it.
+Jan 20 21:48:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/megadrive/gamelist.xml"...
+Jan 20 21:48:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/msx" is not a directory!
+Jan 20 21:48:54 lvl1: 	System "msx" has no games! Ignoring it.
+Jan 20 21:48:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/n64/gamelist.xml"...
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/roms/n64/Paper Mario (USA).z64" does not exist! Ignoring.
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/roms/n64/Quest 64 (USA).z64" does not exist! Ignoring.
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/roms/n64/South Park (USA).z64" does not exist! Ignoring.
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/roms/n64/Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).z64" does not exist! Ignoring.
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/roms/n64/Super Mario 64test.z64" does not exist! Ignoring.
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/roms/n64/Donkey Kong 64 (USA)test.z64" does not exist! Ignoring.
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/roms/n64/Donkey Kong 64 (USA).z64" does not exist! Ignoring.
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/roms/n64/Banjo-Kazooie (USA) (Rev 1).z64" does not exist! Ignoring.
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/roms/n64/The Legend of Zelda - Majora's Mask.z64" does not exist! Ignoring.
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/roms/n64/The Legend of Zelda - Ocarina of Time.z64" does not exist! Ignoring.
+Jan 20 21:48:54 lvl1: 	System "neogeo" has no games! Ignoring it.
+Jan 20 21:48:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/nes/gamelist.xml"...
+Jan 20 21:48:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/ngp/gamelist.xml"...
+Jan 20 21:48:54 lvl1: 	System "ngpc" has no games! Ignoring it.
+Jan 20 21:48:54 lvl1: 	System "pcengine" has no games! Ignoring it.
+Jan 20 21:48:54 lvl1: 	System "psp" has no games! Ignoring it.
+Jan 20 21:48:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/retropie/gamelist.xml"...
+Jan 20 21:48:54 lvl1: 	File "/home/pi/RetroPie/retropiemenu/getUpdate.sh" does not exist! Ignoring.
+Jan 20 21:48:55 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/sega32x/gamelist.xml"...
+Jan 20 21:48:55 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/segacd/gamelist.xml"...
+Jan 20 21:48:55 lvl1: 	File "/home/pi/RetroPie/roms/segacd/Sonic CD.iso" does not exist! Ignoring.
+Jan 20 21:48:55 lvl1: 	System "segacd" has no games! Ignoring it.
+Jan 20 21:48:55 lvl1: 	System "sg-1000" has no games! Ignoring it.
+Jan 20 21:48:55 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/snes/gamelist.xml"...
+Jan 20 21:48:55 lvl1: 	System "vectrex" has no games! Ignoring it.
+Jan 20 21:48:55 lvl1: 	System "zxspectrum" has no games! Ignoring it.
+Jan 20 21:48:58 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 0, device index: 0)
+Jan 20 21:49:24 lvl2: 	 req sound [basic.launch]
+Jan 20 21:49:24 lvl2: 	   (missing)
+Jan 20 21:49:25 lvl2: 	Attempting to launch game...
+Jan 20 21:49:25 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
+Jan 20 21:49:26 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ 3do /home/pi/RetroPie/roms/3do/Road\ \&\ Track\ Presents\ -\ The\ Need\ for\ Speed\ \(US\).cue
+Jan 20 22:06:32 lvl2: 	Creating window...
+Jan 20 22:06:32 lvl2: 	Created window successfully.
+Jan 20 22:06:33 lvl2: 	GL vendor:   Broadcom
+Jan 20 22:06:33 lvl2: 	GL renderer: V3D 4.2
+Jan 20 22:06:33 lvl2: 	GL version:  2.1 Mesa 19.3.2
+Jan 20 22:06:33 lvl2: 	Checking available OpenGL extensions...
+Jan 20 22:06:33 lvl2: 	 ARB_texture_non_power_of_two: ok
+Jan 20 22:06:33 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 1, device index: 0)
+Jan 20 22:06:33 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
+Jan 20 22:06:33 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 1, device index: 0)
+Jan 20 22:06:36 lvl2: 	 req sound [basic.launch]
+Jan 20 22:06:36 lvl2: 	   (missing)
+Jan 20 22:06:37 lvl2: 	Attempting to launch game...
+Jan 20 22:06:38 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ 3do /home/pi/RetroPie/roms/3do/Road\ \&\ Track\ Presents\ -\ The\ Need\ for\ Speed\ \(US\).iso
+Jan 20 22:14:22 lvl2: 	Creating window...
+Jan 20 22:14:23 lvl2: 	Created window successfully.
+Jan 20 22:14:23 lvl2: 	GL vendor:   Broadcom
+Jan 20 22:14:23 lvl2: 	GL renderer: V3D 4.2
+Jan 20 22:14:23 lvl2: 	GL version:  2.1 Mesa 19.3.2
+Jan 20 22:14:23 lvl2: 	Checking available OpenGL extensions...
+Jan 20 22:14:23 lvl2: 	 ARB_texture_non_power_of_two: ok
+Jan 20 22:14:23 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 2, device index: 0)
+Jan 20 22:14:23 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
+Jan 20 22:14:23 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 2, device index: 0)
+Jan 20 22:14:25 lvl2: 	 req sound [basic.launch]
+Jan 20 22:14:25 lvl2: 	   (missing)
+Jan 20 22:14:25 lvl2: 	Attempting to launch game...
+Jan 20 22:14:26 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ 3do /home/pi/RetroPie/roms/3do/Road\ \&\ Track\ Presents\ -\ The\ Need\ for\ Speed\ \(US\).cue
+Jan 20 22:16:50 lvl2: 	Creating window...
+Jan 20 22:16:50 lvl2: 	Created window successfully.
+Jan 20 22:16:50 lvl2: 	GL vendor:   Broadcom
+Jan 20 22:16:50 lvl2: 	GL renderer: V3D 4.2
+Jan 20 22:16:50 lvl2: 	GL version:  2.1 Mesa 19.3.2
+Jan 20 22:16:50 lvl2: 	Checking available OpenGL extensions...
+Jan 20 22:16:50 lvl2: 	 ARB_texture_non_power_of_two: ok
+Jan 20 22:16:51 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 3, device index: 0)
+Jan 20 22:16:51 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
+Jan 20 22:16:51 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 3, device index: 0)
+Jan 20 22:16:53 lvl2: 	 req sound [basic.launch]
+Jan 20 22:16:53 lvl2: 	   (missing)
+Jan 20 22:16:54 lvl2: 	Attempting to launch game...
+Jan 20 22:16:54 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ 3do /home/pi/RetroPie/roms/3do/Wolfenstein\ 3D\ \(US\).cue
+Jan 20 22:24:12 lvl2: 	Creating window...
+Jan 20 22:24:12 lvl2: 	Created window successfully.
+Jan 20 22:24:12 lvl2: 	GL vendor:   Broadcom
+Jan 20 22:24:12 lvl2: 	GL renderer: V3D 4.2
+Jan 20 22:24:12 lvl2: 	GL version:  2.1 Mesa 19.3.2
+Jan 20 22:24:12 lvl2: 	Checking available OpenGL extensions...
+Jan 20 22:24:12 lvl2: 	 ARB_texture_non_power_of_two: ok
+Jan 20 22:24:12 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 4, device index: 0)
+Jan 20 22:24:13 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
+Jan 20 22:24:13 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 4, device index: 0)
+Jan 20 22:24:15 lvl2: 	 req sound [basic.launch]
+Jan 20 22:24:15 lvl2: 	   (missing)
+Jan 20 22:24:16 lvl2: 	Attempting to launch game...
+Jan 20 22:24:17 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ 3do /home/pi/RetroPie/roms/3do/Star\ Control\ II\ \(US\).cue
+Jan 20 22:25:54 lvl2: 	Creating window...
+Jan 20 22:25:55 lvl2: 	Created window successfully.
+Jan 20 22:25:55 lvl2: 	GL vendor:   Broadcom
+Jan 20 22:25:55 lvl2: 	GL renderer: V3D 4.2
+Jan 20 22:25:55 lvl2: 	GL version:  2.1 Mesa 19.3.2
+Jan 20 22:25:55 lvl2: 	Checking available OpenGL extensions...
+Jan 20 22:25:55 lvl2: 	 ARB_texture_non_power_of_two: ok
+Jan 20 22:25:55 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 5, device index: 0)
+Jan 20 22:25:55 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
+Jan 20 22:25:55 lvl2: 	Added known joystick Microsoft X-Box One S pad (instance ID: 5, device index: 0)

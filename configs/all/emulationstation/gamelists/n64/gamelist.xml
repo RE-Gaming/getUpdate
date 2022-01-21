@@ -1,21 +1,320 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Mario Kart 64.z64</path>
-		<name>Mario Kart 64</name>
-		<playcount>4</playcount>
-		<lastplayed>20220109T171206</lastplayed>
+		<path>./Harvest Moon 64.z64</path>
+		<name>Harvest Moon 64</name>
+		<desc>Retire to the country for a new challenge in Harvest Moon 64. Hard work is rewarded as you struggle to bring prosperity back to a neglected farm. Work the land, pick up odd-jobs, and get to know the neighbors. Harvest Moon 64 has all the charm of the original Super Nintendo classic, plus many new surprises.
+
+* Tons of new seasonal vegetables and fruits.
+* Raise cows, chickens, and sheep.
+* New items and gifts. Including tools that increase in power as you master them.
+* One of town's five eligible women may prove to be the love of your life.
+* Celebrate seasonal festivals with the nearby townsfolk.
+* Enjoy local horse and dog racing.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Harvest Moon 64-image.jpg</image>
+		<releasedate>19991130T000000</releasedate>
+		<developer>Toybox</developer>
+		<publisher>Natsume</publisher>
+		<genre>Construction and Management Simulation</genre>
+	</game>
+	<game>
+		<path>./Mario Party.z64</path>
+		<name>Mario Party</name>
+		<desc>Every game in the main series has a standard Party Mode in which up to four players play through a board, trying to collect as many stars as possible. In every turn, each player rolls a die and progresses on the board, which usually has branching paths. Coins are primarily earned by performing well in a minigame played at the end of each turn. On most boards, players earn stars by reaching a star space and purchasing a star for a certain amount of coins. The star space appears randomly on one of several pre-determined locations and moves every time a star is purchased, usually occupying a blue space.
+Every Mario Party contains at least 50 to almost 110 minigames with a few different types. Four-player games are a free-for-all in which players compete individually. In 2-on-2 and 1-on-3 minigames, players compete as two groups, cooperating to win, even though they are still competing individually in the main game. Some minigames in Mario Party are 4-player co-op, even though it doesn't say it. In most situations, winners earn ten coins each.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mario Party-image.jpg</image>
+		<releasedate>19990208T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Puzzle, Strategy, Family</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Paper Mario (USA).z64</path>
+		<name>Paper Mario</name>
+		<desc>Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Paper Mario (USA)-image.jpg</image>
+		<releasedate>20010205T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Quest 64 (USA).z64</path>
+		<name>Quest 64</name>
+		<desc>Celtland has been cast into chaos by the theft of Eletale's Book. This mystical volume contains the secrets of the Spirit Tamers. Control Brian, a magician's apprentice, as he explores the expansive countryside and villages on his quest. If he does not reclaim the book, the Kingdom of Celtland will be cast into darkness forever.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Quest 64 (USA)-image.jpg</image>
+		<releasedate>19980611T000000</releasedate>
+		<developer>Imagineer</developer>
+		<publisher>THQ</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./South Park (USA).z64</path>
+		<name>South Park</name>
+		<desc>Single player takes the form of a "Story" mode divided into five episodes and fifteen linear levels. The player will face weak minions (which change based on the episode), plus occasional sub-bosses which will try to escape into town. The final level is devoted to a unique boss fight. Players use quirky weapons ranging from infinite yellow snowballs to cow launchers and toxic Terrance and Phillip dolls. Every weapon has a secondary fire, and players switch between the four main characters when they switch weapons - each of the four kids shares a single life bar because of this. The kids will comment on game actions as they occur, with heavier profanity censored with bleeps. The kids will get angrier (and fouler) as their health depletes, until they finally give up on saving the town and go home.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/South Park (USA)-image.jpg</image>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).z64</path>
+		<name>Wave Race 64</name>
+		<desc>Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone! Challenge a friend!
+
+* Nine challenging courses set in exotic locales - race conditions change and the wave action responds to the way both you and your opponents race.
+* Take control in three different modes of play - Championship, Time Trials and Stunt Mode. 
+* Game Pak memory will store your circuit progress, best times and custom sellings.
+* Transfer best times and custom settings to a N64 Controller Pak to play at a friend's house.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)-image.jpg</image>
+		<releasedate>19960927T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario 64test.z64</path>
+		<name>Super Mario 64test</name>
+		<playcount>1</playcount>
+		<lastplayed>20220116T200437</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong 64 (USA)test.z64</path>
+		<name>Donkey Kong 64 (USA)test</name>
+		<playcount>1</playcount>
+		<lastplayed>20220116T200524</lastplayed>
 	</game>
 	<game>
 		<path>./Donkey Kong 64 (USA).z64</path>
-		<name>Donkey Kong 64 (USA)</name>
+		<name>Donkey Kong 64</name>
+		<desc>K. Rool has ape-napped the Kongs!
+
+Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his homeland from certain doom? Take out some Kremlings with Chunky's Pineapple Launcher or Lanky's Trombone. Float through the air using Tiny's Pony Tail Twirl. Even Rocket to the sky with Diddy's Jetbarrel!
+
+-Don't forget the mini-games! Challenge a seal to a race around the lagoon, go on a crazy mine cart ride, and be on the lookout for a blast from the past...
+
+-Four players can join in on super split-screen action or duke it out in a single-screen free-for-all!
+
+-Use of the required Expansion Pak (included) allows incredible real-time lighting effects and massive environments.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Donkey Kong 64 (USA)-image.jpg</image>
+		<releasedate>19991122T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Puzzle, Platform</genre>
+		<players>4</players>
+		<playcount>2</playcount>
+		<lastplayed>20220116T202405</lastplayed>
+	</game>
+	<game>
+		<path>./Banjo-Kazooie (USA) (Rev 1).z64</path>
+		<name>Banjo-Kazooie</name>
+		<desc>Action and Puzzles and Bears, Oh My!
+
+Trouble brews when Gruntilda the witch captures the unbearably beautiful cub, Tooty. But before the grisly hag can steal the bear's good looks, big brother Banjo and his fine-feathered friend, Kazooie, join forces to stop her. Combining their 24 moves and special powers, Banjo and Kazooie will fend off armies of beasts. Bear and bird must hunt down the 100 puzzle pieces and 900 musical notes that will ultimately lead them to Gruntilda. However, miles of swamp, desert and snow and one bear of an adventure stand in their way.
+
+-Soar over islands to scout out buried treasure.
+
+-Brave past whirling blades in the belly of a mechanical shark.
+
+-With some voodoo magic, transform into different creatures to gain special powers.
+
+-Solve the puzzles of the ancients to unearth the cursed labyrinths.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Banjo-Kazooie (USA) (Rev 1)-image.jpg</image>
+		<releasedate>19980629T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Puzzle, Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220116T205443</lastplayed>
+	</game>
+	<game>
+		<path>./Banjo-Kazooie.z64</path>
+		<name>Banjo-Kazooie</name>
+		<desc>Action and Puzzles and Bears, Oh My!
+
+Trouble brews when Gruntilda the witch captures the unbearably beautiful cub, Tooty. But before the grisly hag can steal the bear's good looks, big brother Banjo and his fine-feathered friend, Kazooie, join forces to stop her. Combining their 24 moves and special powers, Banjo and Kazooie will fend off armies of beasts. Bear and bird must hunt down the 100 puzzle pieces and 900 musical notes that will ultimately lead them to Gruntilda. However, miles of swamp, desert and snow and one bear of an adventure stand in their way.
+
+-Soar over islands to scout out buried treasure.
+
+-Brave past whirling blades in the belly of a mechanical shark.
+
+-With some voodoo magic, transform into different creatures to gain special powers.
+
+-Solve the puzzles of the ancients to unearth the cursed labyrinths.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Banjo-Kazooie-image.jpg</image>
+		<releasedate>19980629T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Puzzle, Platform</genre>
+	</game>
+	<game>
+		<path>./Donkey Kong 64.z64</path>
+		<name>Donkey Kong 64</name>
+		<desc>K. Rool has ape-napped the Kongs!
+
+Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his homeland from certain doom? Take out some Kremlings with Chunky's Pineapple Launcher or Lanky's Trombone. Float through the air using Tiny's Pony Tail Twirl. Even Rocket to the sky with Diddy's Jetbarrel!
+
+-Don't forget the mini-games! Challenge a seal to a race around the lagoon, go on a crazy mine cart ride, and be on the lookout for a blast from the past...
+
+-Four players can join in on super split-screen action or duke it out in a single-screen free-for-all!
+
+-Use of the required Expansion Pak (included) allows incredible real-time lighting effects and massive environments.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Donkey Kong 64-image.jpg</image>
+		<releasedate>19991122T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Puzzle, Platform</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Paper Mario.z64</path>
+		<name>Paper Mario</name>
+		<desc>Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Paper Mario-image.jpg</image>
+		<releasedate>20010205T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Quest 64.z64</path>
+		<name>Quest 64</name>
+		<desc>Celtland has been cast into chaos by the theft of Eletale's Book. This mystical volume contains the secrets of the Spirit Tamers. Control Brian, a magician's apprentice, as he explores the expansive countryside and villages on his quest. If he does not reclaim the book, the Kingdom of Celtland will be cast into darkness forever.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Quest 64-image.jpg</image>
+		<releasedate>19980611T000000</releasedate>
+		<developer>Imagineer</developer>
+		<publisher>THQ</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./South Park.z64</path>
+		<name>South Park</name>
+		<desc>Single player takes the form of a "Story" mode divided into five episodes and fifteen linear levels. The player will face weak minions (which change based on the episode), plus occasional sub-bosses which will try to escape into town. The final level is devoted to a unique boss fight. Players use quirky weapons ranging from infinite yellow snowballs to cow launchers and toxic Terrance and Phillip dolls. Every weapon has a secondary fire, and players switch between the four main characters when they switch weapons - each of the four kids shares a single life bar because of this. The kids will comment on game actions as they occur, with heavier profanity censored with bleeps. The kids will get angrier (and fouler) as their health depletes, until they finally give up on saving the town and go home.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/South Park-image.jpg</image>
+		<releasedate>19981212T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Wave Race 64.z64</path>
+		<name>Wave Race 64</name>
+		<desc>Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone! Challenge a friend!
+
+* Nine challenging courses set in exotic locales - race conditions change and the wave action responds to the way both you and your opponents race.
+* Take control in three different modes of play - Championship, Time Trials and Stunt Mode. 
+* Game Pak memory will store your circuit progress, best times and custom sellings.
+* Transfer best times and custom settings to a N64 Controller Pak to play at a friend's house.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Wave Race 64-image.jpg</image>
+		<releasedate>19960927T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./The Legend of Zelda - Majora's Mask.z64</path>
+		<name>The Legend of Zelda - Majora's Mask</name>
+		<playcount>2</playcount>
+		<lastplayed>20220116T213345</lastplayed>
+	</game>
+	<game>
+		<path>./The Legend of Zelda - Ocarina of Time.z64</path>
+		<name>The Legend of Zelda - Ocarina of Time</name>
+		<playcount>1</playcount>
+		<lastplayed>20220116T213303</lastplayed>
+	</game>
+	<game>
+		<path>./Duke Nukem 64.z64</path>
+		<name>Duke Nukem 64</name>
+		<desc>Duke Nukem's coming to get some! Prepare yourself to become the biggest, baddest, alien basher in the known universe - Duke Nukem; as you blast your way through the streets of LA out to an orbiting station, and onto the moon itself. Bag some aliens with over a dozen hi-tech weapons. 32 levels of non-stop carnage. Run, jump, crawl, swim, and jetpack your way through danger. Big weapons and bigger bosses for a fun-filled fragfest! Four-player, split-screen Dukematch action.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Duke Nukem 64-image.jpg</image>
+		<releasedate>19971031T000000</releasedate>
+		<developer>GT Interactive</developer>
+		<publisher>Eurocom Entertainment Software</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
 		<playcount>3</playcount>
-		<lastplayed>20220109T231233</lastplayed>
+		<lastplayed>20220116T220212</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Ocarina of Time.z64</path>
+		<name>Legend of Zelda, The - Ocarina of Time</name>
+		<playcount>1</playcount>
+		<lastplayed>20220116T214518</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda,The - Majora's Mask.z64</path>
+		<name>Legend of Zelda,The - Majora's Mask</name>
+		<playcount>2</playcount>
+		<lastplayed>20220116T214529</lastplayed>
+	</game>
+	<game>
+		<path>./Yoshi's Story.z64</path>
+		<name>Yoshi's Story</name>
+		<desc>Baby Bowser has taken the Super Happy Tree and cast a spell on Yoshi's world, turning it into the pages of a picture book.  The only Yoshis not affected by the spell were six hatchlings that were still protected by their shells.  It's up to them to reclaim the Super Happy Tree and restore happiness to the world.  That is the only thing that can break Baby Bowser's Spell!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Yoshi's Story-image.jpg</image>
+		<releasedate>19980301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure</genre>
+		<playcount>4</playcount>
+		<lastplayed>20220116T215353</lastplayed>
+	</game>
+	<game>
+		<path>./GoldenEye 007.z64</path>
+		<name>GoldenEye 007</name>
+		<playcount>1</playcount>
+		<lastplayed>20220116T220251</lastplayed>
 	</game>
 	<game>
 		<path>./Super Mario 64.z64</path>
 		<name>Super Mario 64</name>
-		<playcount>7</playcount>
-		<lastplayed>20220109T231752</lastplayed>
+		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64™ becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis -- Bowser, King of the Koopas!
+
+-Run freely in a grassy meadow, tip-toe through a gloomy dungeon, climb to the top of a mountain or take a swim in the moat!
+
+-Leap head first into a watery painting and soon you'll be searching for the surface in an underwater realm!
+
+-On-the-fly, 3-D rendered game play delivers the action of ruthless enemy attacks from every angle!
+
+-Find the Caps that give Mario super powers, ponder the mysteries of the pyramid, you can even race Koopas for fabulous prizes!
+
+-With the Nintendo 64 Controller and its analog Control Stick, Mario can crawl, kick down obstacles, swim, do reverse flips, and even stick the landing on his backwards somersault!
+
+-Saved game information is stored for up to four players in memory.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Super Mario 64-image.jpg</image>
+		<releasedate>19960926T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Puzzle, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220119T191654</lastplayed>
+	</game>
+	<game>
+		<path>./Mario Kart 64.z64</path>
+		<name>Mario Kart 64</name>
+		<desc>Three… Two… One… GO! The signal light changes and you drop the pedal to the metal. Take on up to three friends in the split-screen VS games, or race solo in the Mario GP. Tell your friends to bring it on in the highly competitive Battle mode. Advanced features allow you to race with your “Ghost”. The driving data from your best run appears as a transparent character on the screen. No longer must you simply race against the clock -- you can actually race against yourself!
+
+-Save your hottest Ghost data to a portable N64 Controller Pak™ (Sold Separately)
+
+-Collect multiple power-up items!
+
+-Twenty different courses -- 4 Cups with 4 courses each and 4 special Battle mode courses!
+
+-Everyone’s favorite characters are back and gorgeously rendered, including two new additions, Donkey Kong™ and Wario™!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mario Kart 64-image.jpg</image>
+		<releasedate>19970210T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<playcount>4</playcount>
+		<lastplayed>20220120T211121</lastplayed>
 	</game>
 </gameList>
