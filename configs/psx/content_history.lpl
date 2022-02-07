@@ -10,6 +10,22 @@
     {
       "path": "/home/pi/RetroPie/roms/psx/Gran Turismo (USA) (Rev 1).cue",
       "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-duckstation/duckstation_libretro.so",
+      "core_name": "DuckStation",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/psx/Spyro the Dragon (USA).cue",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-duckstation/duckstation_libretro.so",
+      "core_name": "DuckStation",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/psx/Gran Turismo (USA) (Rev 1).cue",
+      "label": "",
       "core_path": "/opt/retropie/libretrocores/lr-pcsx-rearmed/pcsx_rearmed_libretro.so",
       "core_name": "PCSX-ReARMed",
       "crc32": "",

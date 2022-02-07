@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Gran Turismo (USA) (Rev 1).cue</path>
+		<name>Gran Turismo (USA) (Rev 1)</name>
+		<playcount>2</playcount>
+		<lastplayed>20220121T185036</lastplayed>
+	</game>
+	<game>
+		<path>./Spyro the Dragon (USA).cue</path>
+		<name>Spyro the Dragon (USA)</name>
+		<playcount>3</playcount>
+		<lastplayed>20220121T183639</lastplayed>
+	</game>
+</gameList>

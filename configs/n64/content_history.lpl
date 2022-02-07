@@ -8,7 +8,103 @@
   "sort_mode": 2,
   "items": [
     {
+      "path": "/home/pi/RetroPie/roms/n64/Mario Party.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
       "path": "/home/pi/RetroPie/roms/n64/Super Mario 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Mario Kart 64 (USA).z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Mario Kart 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES3",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Mario Kart 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Jet Force Gemini.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES3",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Jet Force Gemini.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/GoldenEye 007.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/GoldenEye 007.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-parallel-n64/parallel_n64_libretro.so",
+      "core_name": "ParaLLEl N64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/GoldenEye 007.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES3",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Bomberman 64.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/BattleTanx Global Assault.z64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
+      "core_name": "Mupen64Plus-Next",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/007 The World Is Not Enough.z64",
       "label": "",
       "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
       "core_name": "Mupen64Plus-Next",
@@ -56,14 +152,6 @@
       "db_name": ""
     },
     {
-      "path": "/home/pi/RetroPie/roms/n64/Mario Party.z64",
-      "label": "",
-      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
-      "core_name": "Mupen64Plus-Next",
-      "crc32": "",
-      "db_name": ""
-    },
-    {
       "path": "/home/pi/RetroPie/roms/n64/Harvest Moon 64.z64",
       "label": "",
       "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
@@ -89,14 +177,6 @@
     },
     {
       "path": "/home/pi/RetroPie/roms/n64/Donkey Kong 64 (USA).z64",
-      "label": "",
-      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
-      "core_name": "Mupen64Plus-Next",
-      "crc32": "",
-      "db_name": ""
-    },
-    {
-      "path": "/home/pi/RetroPie/roms/n64/Mario Kart 64.z64",
       "label": "",
       "core_path": "/opt/retropie/libretrocores/lr-mupen64plus-next/mupen64plus_next_libretro.so",
       "core_name": "Mupen64Plus-Next",

@@ -243,18 +243,6 @@ Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his home
 		<lastplayed>20220116T220212</lastplayed>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The - Ocarina of Time.z64</path>
-		<name>Legend of Zelda, The - Ocarina of Time</name>
-		<playcount>1</playcount>
-		<lastplayed>20220116T214518</lastplayed>
-	</game>
-	<game>
-		<path>./Legend of Zelda,The - Majora's Mask.z64</path>
-		<name>Legend of Zelda,The - Majora's Mask</name>
-		<playcount>2</playcount>
-		<lastplayed>20220116T214529</lastplayed>
-	</game>
-	<game>
 		<path>./Yoshi's Story.z64</path>
 		<name>Yoshi's Story</name>
 		<desc>Baby Bowser has taken the Super Happy Tree and cast a spell on Yoshi's world, turning it into the pages of a picture book.  The only Yoshis not affected by the spell were six hatchlings that were still protected by their shells.  It's up to them to reclaim the Super Happy Tree and restore happiness to the world.  That is the only thing that can break Baby Bowser's Spell!</desc>
@@ -265,12 +253,6 @@ Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his home
 		<genre>Action, Adventure</genre>
 		<playcount>4</playcount>
 		<lastplayed>20220116T215353</lastplayed>
-	</game>
-	<game>
-		<path>./GoldenEye 007.z64</path>
-		<name>GoldenEye 007</name>
-		<playcount>1</playcount>
-		<lastplayed>20220116T220251</lastplayed>
 	</game>
 	<game>
 		<path>./Super Mario 64.z64</path>
@@ -297,6 +279,384 @@ Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his home
 		<lastplayed>20220119T191654</lastplayed>
 	</game>
 	<game>
+		<path>./007 - The World Is Not Enough (USA).z64</path>
+		<name>007 The World Is Not Enough</name>
+		<desc>Bond Is Back
+
+Experience the intensity of being the world's top secret agent. Equipped with a full arsenal of Q-Lab gadgets and weaponry, you must be suave, resourceful and lethal as you carry out action-packed missions based on the blockbuster movie. Are you cool under pressure? Deadly when necessary? Of course you are - you're Bond... James Bond 
+
+• Bond's Best Missions! Battle through 14 dangerous levels with dynamic objectives based on your skill level.
+• Over 40 Q-Lab Gadgets and Weapons! Bond's P2K, X-Ray Glasses, Watch Stunner, and many more.
+• Action-packed Multiplayer! Customizable multiplayer modes for 1 to 4 players plus AI controlled bots.
+• Authentic Dialogue! Interact with you favorite characters and experience movie-like 3D cinematics with full speech.
+• Expansion Pak Support for enhanced graphics and visual effects.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/007 - The World Is Not Enough (USA)-image.jpg</image>
+		<releasedate>20001017T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action, Shooter</genre>
+		<players>4</players>
+		<playcount>2</playcount>
+		<lastplayed>20220202T184543</lastplayed>
+	</game>
+	<game>
+		<path>./BattleTanx - Global Assault (USA).z64</path>
+		<name>BattleTanx: Global Assault</name>
+		<desc>On January 13, 2006, a Queenlord, Cassandra, is spying on Griffin Spade's family, telling her troops to kidnap Griffin's son Brandon and kill everyone else. Griffin and his army manage to push back the invaders, but Cassandra soon turns the tables by mind-controlling Griffin's own army. Griffin and Madison manage to escape San Francisco and begin chasing Cassandra across the United States, eventually cornering her in Washington, D.C.. Cassandra, however, escapes with Brandon to Great Britain; Griffin and Madison follow. They build a new army in Europe, and chase Cassandra through England, France and Germany. While in Paris, they discover Cassandra released the virus in 2001 to kill every female on Earth who didn't have the power of the Edge.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/BattleTanx - Global Assault (USA)-image.jpg</image>
+		<releasedate>19991012T000000</releasedate>
+		<developer>3DO</developer>
+		<publisher>3DO</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Bomberman 64 (USA).z64</path>
+		<name>Bomberman 64</name>
+		<desc>The evil Altair is using the Omni Cube to drain the energy from Planet Bomber. With the aid of a mysterious helper, you must defeat Altair, and restore peace to Planet Bomber. In the Adventure mode, guide Bomberman through 24 areas of perilous conflict. Battle Altair's sinister allies, destroy their bases and put an end to the insane attack. The multi-player Battle mode offers endless hours of explosive action. Use the standard Bomberman character or create a custom one and save it to an N64 Controller Pak.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Bomberman 64 (USA)-image.jpg</image>
+		<releasedate>19971201T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Extreme-G (USA).z64</path>
+		<name>Extreme-G</name>
+		<desc>Extreme-G is set in the distant future where Earth is a mere wasteland.  From their new found planet the human colonists watch with joy as their remote controlled power-bikes wreak havoc through their ancient cities.  There is only one winner, the first to cross the line… or the last to survive.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Extreme-G (USA)-image.jpg</image>
+		<releasedate>19970930T000000</releasedate>
+		<developer>Probe Entertainment</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Action, Racing, Shooter, Sports</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./F-Zero X (USA).z64</path>
+		<name>F-Zero X</name>
+		<desc>It's you against 29 other machines competing for the title of F-Zero X Champion. You're racing at speeds of over 1,000 km/h high above the atmosphere. Your competition comes from every corner of the galaxy and won't shed a tear at the thought of smashing you off the track. With four-player simultaneous gameplay and the Rumble Pak accessory, you have the fastest racing game on the N64 system!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/F-Zero X (USA)-image.jpg</image>
+		<releasedate>19981026T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Gauntlet Legends (USA).z64</path>
+		<name>Gauntlet Legends</name>
+		<desc>In ages past, a corrupt mage named Garm used a set of Runestones to summon a demon named Skorne (It is not stated what Garm intended to use Skorne for; however, as Gauntlet Legends introduces Garm as a "greedy young mage", it can be assumed he wanted Skorne for his own personal gain.) However, Skorne crushed Garm and imprisoned his soul in the Underworld. Skorne, fearing the power of the Runestones, scattered them throughout the four realms, so that they could never be used against him. The player(s) must defeat the end bosses of each of the four realms to obtain the four golden keys which allow access to Skorne's temple. While traveling through each realm, he/she/they must also collect the Thirteen Runestones from where they have been scattered. The complete set of Runestones allows him/her/them to pursue Skorne to the Underworld in order to finally destroy him. The players must find 3 rune stones on each kingdom in order to defeat Skorne in the Underworld, and of course 1 from the battle grounds.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Gauntlet Legends (USA)-image.jpg</image>
+		<releasedate>19990831T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./GoldenEye 007 (USA).z64</path>
+		<name>GoldenEye 007</name>
+		<desc>You are Bond, James Bond.
+
+You are assigned to covert operations connected with the GoldenEye weapons satellite.  M will brief you on your mission and objectives from London.  Q Branch will support your efforts with a plentiful supply of weapons and gadgets.  Moneypenny offers you light-hearted best wishes and you’re off!
+
+Your mission begins in the heavily guarded chemical warfare facility at the Byelomorye Dam in the USSR.  Look and shoot in any direction as you navigate 12 interactive 3-D environments.  Use stealth and force as you see fit in matters of international security.  Consider the military personnel expendable.  You are licensed to kill!
+
+* Exciting 3-D environments.
+* Highly intelligent enemies!
+* Numerous Q gadgets and weapons!
+* Battery-backed memory saves game progress!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/GoldenEye 007 (USA)-image.jpg</image>
+		<releasedate>19970825T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Shooter, Stealth</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Jet Force Gemini (USA).z64</path>
+		<name>Jet Force Gemini</name>
+		<desc>The insect invasion has begun.
+
+The galaxy is being infested by the evil Mizar and his horde of Drones. Already, the planet of Goldwood has been subjugated and the peaceful Tribals enslaved. With an arsenal of mega-weapons at their disposal, the Jet Force Gemini team must travel in search of Mizar's lair - rescuing Tribals and splattering Drones along the way. But can Juno, Vela and their faithful dog, Lupus, exterminate the deadly threat before it's too late?
+
++ " The game also includes a multiplayer mode where two to four players can compete in traditional deathmatch games. " -Wikipedia</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Jet Force Gemini (USA)-image.jpg</image>
+		<releasedate>19991011T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Rare, Ltd.</publisher>
+		<genre>Action, Adventure, Shooter</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Ocarina of Time.z64</path>
+		<name>The Legend of Zelda: Ocarina of Time</name>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf’s evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora’s Domain.  Before you complete this epic quest, you’ll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.
+
+• The immersive storyline and environments draw players into an amazing 3D world.
+• Time travel allows you to play as Link in different stages of his life.
+• New gameplay features include a unique targeting system and 1st and 3rd person perspectives.
+• Up to three games can be saved simultaneously to memory!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Ocarina of Time-image.jpg</image>
+		<releasedate>19981123T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Role-Playing, Puzzle, Platform</genre>
+	</game>
+	<game>
+		<path>./Legend of Zelda,The - Majora's Mask.z64</path>
+		<name>The Legend of Zelda: Majora's Mask</name>
+		<desc>Link's all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above. When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule.
+
+-Link transforms before your eyes -Over 20 magical masks give Link powers and abilities he’s never had before! Watch him transform into hapless Deku Child, a mighty Gordon hero and a legendary Zora guitarist.
+
+-Race against time -Characters and events flow with the hours of the day. Set your own schedule and even alter time itself in a race to stop the moon and save the world!
+
+-Panoramic environments! Powered-up action battles! Fully interactive characters and events! Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.
+</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda,The - Majora's Mask-image.jpg</image>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Role-Playing, Puzzle</genre>
+	</game>
+	<game>
+		<path>./Perfect Dark (USA) (Rev 1).z64</path>
+		<name>Perfect Dark</name>
+		<desc>Step into the Dark... As Carrington Institute's most promising new Agent, Joanna Dark must uncover the truth behind the dataDyne Corporation's recent technological breakthroughs - breakthroughs which could have serious consequences for mankind.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Perfect Dark (USA) (Rev 1)-image.jpg</image>
+		<releasedate>20000522T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Rare, Ltd.</publisher>
+		<genre>Action, Shooter, Stealth</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Star Fox 64.z64</path>
+		<name>Star Fox 64</name>
+		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.
+
+See how it feels to feel what you see! The N64 Rumble Pak controller accessory instantly transmits all the bumps and blasts during the action. It’s a new jolt to your game play experience!
+
+-N64 Rumble Pak controller accessory and batteries included!
+
+-Four Players compete simultaneously in Vs. mode!
+
+-Game Pak memory saves the top 10 scores!
+
+-Outstanding cinema scenes tell the Star Fox saga!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Star Fox 64-image.jpg</image>
+		<releasedate>19970630T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Shooter</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Star Wars Episode I - Racer (USA).z64</path>
+		<name>Star Wars Episode I: Racer</name>
+		<desc>Join Jedi-to-be Anakin Skywalker in the Star Wars race of your life! Relive all the thrills and excitement of the Podracer sequence from Star Wars: Episode I. Hang on tight - with afterburners on, Podracers max out at a simulated 600 mph! Race in furious competition against more than 21 opponents! Take on over 21 tracks in 8 unique worlds. Avoid hazards such as methane lakes, meteor showers and Tusken Raiders! Featuring spectacular 3D environments!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Star Wars Episode I - Racer (USA)-image.jpg</image>
+		<releasedate>19990518T000000</releasedate>
+		<developer>LucasArts Entertainment Company LLC</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Smash Bros.z64</path>
+		<name>Super Smash Bros.</name>
+		<desc>It's a Bumpin', Bruisin', Brawlin' Bash!
+
+The many worlds of Nintendo collide in the ultimate showdown of strength and skill! Up to four players can choose their favorite characters - complete with signature attacks - and go at it in Team Battles and Free-For-Alls. Or venture out on your own to conquer the 14 stages in single-player mode. Either way, Super Smash Bros. is a no-holds-barred action-fest that will keep you coming back for more!
+
+-Plunge headlong into battle with your favorite Nintendo characters: Mario, Link, Donkey Kong, Pikachu, Samus, Yoshi, Kirby and Fox... plus 4 hidden characters!
+
+-Characters use their own trademark attacks, such as Mario’s fireballs and Link’s sword.
+
+-Grab a Fire Flower or Poké Ball and send your opponent sailing out of the arena.
+
+-Compete in 8 different settings, each from a character’s home world and each with its own dangers.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Super Smash Bros-image.jpg</image>
+		<releasedate>19990426T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Fighting, Platform, Party</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./007 The World Is Not Enough (USA).z64</path>
+		<name>007 The World Is Not Enough</name>
+		<desc>Bond Is Back
+
+Experience the intensity of being the world's top secret agent. Equipped with a full arsenal of Q-Lab gadgets and weaponry, you must be suave, resourceful and lethal as you carry out action-packed missions based on the blockbuster movie. Are you cool under pressure? Deadly when necessary? Of course you are - you're Bond... James Bond 
+
+• Bond's Best Missions! Battle through 14 dangerous levels with dynamic objectives based on your skill level.
+• Over 40 Q-Lab Gadgets and Weapons! Bond's P2K, X-Ray Glasses, Watch Stunner, and many more.
+• Action-packed Multiplayer! Customizable multiplayer modes for 1 to 4 players plus AI controlled bots.
+• Authentic Dialogue! Interact with you favorite characters and experience movie-like 3D cinematics with full speech.
+• Expansion Pak Support for enhanced graphics and visual effects.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/007 The World Is Not Enough (USA)-image.jpg</image>
+		<releasedate>20001017T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action, Shooter</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220202T184733</lastplayed>
+	</game>
+	<game>
+		<path>./007 The World Is Not Enough.z64</path>
+		<name>007 The World Is Not Enough</name>
+		<desc>Bond Is Back
+
+Experience the intensity of being the world's top secret agent. Equipped with a full arsenal of Q-Lab gadgets and weaponry, you must be suave, resourceful and lethal as you carry out action-packed missions based on the blockbuster movie. Are you cool under pressure? Deadly when necessary? Of course you are - you're Bond... James Bond 
+
+• Bond's Best Missions! Battle through 14 dangerous levels with dynamic objectives based on your skill level.
+• Over 40 Q-Lab Gadgets and Weapons! Bond's P2K, X-Ray Glasses, Watch Stunner, and many more.
+• Action-packed Multiplayer! Customizable multiplayer modes for 1 to 4 players plus AI controlled bots.
+• Authentic Dialogue! Interact with you favorite characters and experience movie-like 3D cinematics with full speech.
+• Expansion Pak Support for enhanced graphics and visual effects.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/007 The World Is Not Enough-image.jpg</image>
+		<releasedate>20001017T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action, Shooter</genre>
+		<players>4</players>
+		<playcount>2</playcount>
+		<lastplayed>20220202T191013</lastplayed>
+	</game>
+	<game>
+		<path>./BattleTanx - Global Assault.z64</path>
+		<name>BattleTanx: Global Assault</name>
+		<desc>On January 13, 2006, a Queenlord, Cassandra, is spying on Griffin Spade's family, telling her troops to kidnap Griffin's son Brandon and kill everyone else. Griffin and his army manage to push back the invaders, but Cassandra soon turns the tables by mind-controlling Griffin's own army. Griffin and Madison manage to escape San Francisco and begin chasing Cassandra across the United States, eventually cornering her in Washington, D.C.. Cassandra, however, escapes with Brandon to Great Britain; Griffin and Madison follow. They build a new army in Europe, and chase Cassandra through England, France and Germany. While in Paris, they discover Cassandra released the virus in 2001 to kill every female on Earth who didn't have the power of the Edge.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/BattleTanx - Global Assault-image.jpg</image>
+		<releasedate>19991012T000000</releasedate>
+		<developer>3DO</developer>
+		<publisher>3DO</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220202T191245</lastplayed>
+	</game>
+	<game>
+		<path>./Bomberman 64.z64</path>
+		<name>Bomberman 64</name>
+		<desc>The evil Altair is using the Omni Cube to drain the energy from Planet Bomber. With the aid of a mysterious helper, you must defeat Altair, and restore peace to Planet Bomber. In the Adventure mode, guide Bomberman through 24 areas of perilous conflict. Battle Altair's sinister allies, destroy their bases and put an end to the insane attack. The multi-player Battle mode offers endless hours of explosive action. Use the standard Bomberman character or create a custom one and save it to an N64 Controller Pak.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Bomberman 64-image.jpg</image>
+		<releasedate>19971201T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Extreme-G.z64</path>
+		<name>Extreme-G</name>
+		<desc>Extreme-G is set in the distant future where Earth is a mere wasteland.  From their new found planet the human colonists watch with joy as their remote controlled power-bikes wreak havoc through their ancient cities.  There is only one winner, the first to cross the line… or the last to survive.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Extreme-G-image.jpg</image>
+		<releasedate>19970930T000000</releasedate>
+		<developer>Probe Entertainment</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Action, Racing, Shooter, Sports</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./F-Zero X.z64</path>
+		<name>F-Zero X</name>
+		<desc>It's you against 29 other machines competing for the title of F-Zero X Champion. You're racing at speeds of over 1,000 km/h high above the atmosphere. Your competition comes from every corner of the galaxy and won't shed a tear at the thought of smashing you off the track. With four-player simultaneous gameplay and the Rumble Pak accessory, you have the fastest racing game on the N64 system!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/F-Zero X-image.jpg</image>
+		<releasedate>19981026T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Gauntlet Legends.z64</path>
+		<name>Gauntlet Legends</name>
+		<desc>In ages past, a corrupt mage named Garm used a set of Runestones to summon a demon named Skorne (It is not stated what Garm intended to use Skorne for; however, as Gauntlet Legends introduces Garm as a "greedy young mage", it can be assumed he wanted Skorne for his own personal gain.) However, Skorne crushed Garm and imprisoned his soul in the Underworld. Skorne, fearing the power of the Runestones, scattered them throughout the four realms, so that they could never be used against him. The player(s) must defeat the end bosses of each of the four realms to obtain the four golden keys which allow access to Skorne's temple. While traveling through each realm, he/she/they must also collect the Thirteen Runestones from where they have been scattered. The complete set of Runestones allows him/her/them to pursue Skorne to the Underworld in order to finally destroy him. The players must find 3 rune stones on each kingdom in order to defeat Skorne in the Underworld, and of course 1 from the battle grounds.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Gauntlet Legends-image.jpg</image>
+		<releasedate>19990831T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Perfect Dark.z64</path>
+		<name>Perfect Dark</name>
+		<desc>Step into the Dark... As Carrington Institute's most promising new Agent, Joanna Dark must uncover the truth behind the dataDyne Corporation's recent technological breakthroughs - breakthroughs which could have serious consequences for mankind.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Perfect Dark-image.jpg</image>
+		<releasedate>20000522T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Rare, Ltd.</publisher>
+		<genre>Action, Shooter, Stealth</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Star Wars Episode I - Racer.z64</path>
+		<name>Star Wars Episode I: Racer</name>
+		<desc>Join Jedi-to-be Anakin Skywalker in the Star Wars race of your life! Relive all the thrills and excitement of the Podracer sequence from Star Wars: Episode I. Hang on tight - with afterburners on, Podracers max out at a simulated 600 mph! Race in furious competition against more than 21 opponents! Take on over 21 tracks in 8 unique worlds. Avoid hazards such as methane lakes, meteor showers and Tusken Raiders! Featuring spectacular 3D environments!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Star Wars Episode I - Racer-image.jpg</image>
+		<releasedate>19990518T000000</releasedate>
+		<developer>LucasArts Entertainment Company LLC</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./BattleTanx Global Assault.z64</path>
+		<name>BattleTanx: Global Assault</name>
+		<desc>On January 13, 2006, a Queenlord, Cassandra, is spying on Griffin Spade's family, telling her troops to kidnap Griffin's son Brandon and kill everyone else. Griffin and his army manage to push back the invaders, but Cassandra soon turns the tables by mind-controlling Griffin's own army. Griffin and Madison manage to escape San Francisco and begin chasing Cassandra across the United States, eventually cornering her in Washington, D.C.. Cassandra, however, escapes with Brandon to Great Britain; Griffin and Madison follow. They build a new army in Europe, and chase Cassandra through England, France and Germany. While in Paris, they discover Cassandra released the virus in 2001 to kill every female on Earth who didn't have the power of the Edge.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/BattleTanx Global Assault-image.jpg</image>
+		<releasedate>19991012T000000</releasedate>
+		<developer>3DO</developer>
+		<publisher>3DO</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./GoldenEye 007.z64</path>
+		<name>GoldenEye 007</name>
+		<desc>You are Bond, James Bond.
+
+You are assigned to covert operations connected with the GoldenEye weapons satellite.  M will brief you on your mission and objectives from London.  Q Branch will support your efforts with a plentiful supply of weapons and gadgets.  Moneypenny offers you light-hearted best wishes and you’re off!
+
+Your mission begins in the heavily guarded chemical warfare facility at the Byelomorye Dam in the USSR.  Look and shoot in any direction as you navigate 12 interactive 3-D environments.  Use stealth and force as you see fit in matters of international security.  Consider the military personnel expendable.  You are licensed to kill!
+
+* Exciting 3-D environments.
+* Highly intelligent enemies!
+* Numerous Q gadgets and weapons!
+* Battery-backed memory saves game progress!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/GoldenEye 007-image.jpg</image>
+		<releasedate>19970825T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Shooter, Stealth</genre>
+		<players>4</players>
+		<playcount>53</playcount>
+		<lastplayed>20220206T204211</lastplayed>
+	</game>
+	<game>
+		<path>./Jet Force Gemini.z64</path>
+		<name>Jet Force Gemini</name>
+		<desc>The insect invasion has begun.
+
+The galaxy is being infested by the evil Mizar and his horde of Drones. Already, the planet of Goldwood has been subjugated and the peaceful Tribals enslaved. With an arsenal of mega-weapons at their disposal, the Jet Force Gemini team must travel in search of Mizar's lair - rescuing Tribals and splattering Drones along the way. But can Juno, Vela and their faithful dog, Lupus, exterminate the deadly threat before it's too late?
+
++ " The game also includes a multiplayer mode where two to four players can compete in traditional deathmatch games. " -Wikipedia</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Jet Force Gemini-image.jpg</image>
+		<releasedate>19991011T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Rare, Ltd.</publisher>
+		<genre>Action, Adventure, Shooter</genre>
+		<players>4</players>
+		<playcount>16</playcount>
+		<lastplayed>20220206T212046</lastplayed>
+	</game>
+	<game>
 		<path>./Mario Kart 64.z64</path>
 		<name>Mario Kart 64</name>
 		<desc>Three… Two… One… GO! The signal light changes and you drop the pedal to the metal. Take on up to three friends in the split-screen VS games, or race solo in the Mario GP. Tell your friends to bring it on in the highly competitive Battle mode. Advanced features allow you to race with your “Ghost”. The driving data from your best run appears as a transparent character on the screen. No longer must you simply race against the clock -- you can actually race against yourself!
@@ -314,7 +674,7 @@ Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his home
 		<publisher>Nintendo</publisher>
 		<genre>Racing</genre>
 		<players>4</players>
-		<playcount>4</playcount>
-		<lastplayed>20220120T211121</lastplayed>
+		<playcount>7</playcount>
+		<lastplayed>20220206T213428</lastplayed>
 	</game>
 </gameList>
