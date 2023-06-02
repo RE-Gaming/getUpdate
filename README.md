@@ -1,4 +1,5 @@
 # Repository for the RE: A4 optimized config files
+# Minimal Version
 
 Github: https://www.github.com/RE-Gaming <br />
 Website: https://www.re-gaming.com <br />
