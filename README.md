@@ -1,5 +1,4 @@
 # Repository for the RE: A4 optimized config files
-# Minimal Version
 
 Github: https://www.github.com/RE-Gaming <br />
 Website: https://www.re-gaming.com <br />
@@ -23,6 +22,7 @@ Optimized Systems <br />
   - Nintendo 64: 249/373 games optimized via emulator level settings
     - 2 games directly optimized, 122 games still to optimize
     - 0 games that can't be emulated
+    - **Make sure your ROM names match the formatting on N64-Formatting.txt file**
 
 - **NINTENDO HANDHELDS**
   - Gameboy: Optimized at the emulator level, no games individually optimized
