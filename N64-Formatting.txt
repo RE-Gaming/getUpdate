@@ -1,6 +1,4 @@
-| Game Name | Proper Formatting for ROM File |
-|-----------|-------------------|
-|007 The World Is Not Enough | 007 The World Is Not Enough |
+007 The World Is Not Enough
 1080 Snowboarding
 64 de Hakken!! Tamagotchi
 64 Hanafuda
